@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+img[src]
+{position: relative;
+    left: 500px;
+}
+ul li{
+    letter-spacing: normal;
+    line-height: normal;
+    font-size: 16px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+body{
+    background-color: rgb(214, 207, 207);
+}
